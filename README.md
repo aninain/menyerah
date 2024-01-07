@@ -32,7 +32,7 @@
    <audio src="https://feeldreams.github.io/djikhlas.mp3" id="linkmp3" class="sembunyi"></audio>
    
    <div id="bodyblur">
-     <!-- Wallpaper --><img src="https://feeldreams.github.io/wp9.jpg" id="wallpaper"/><div id="beneranblur"></div>
+     <!-- Wallpaper --><img src="https://private-user-images.githubusercontent.com/155887265/294764555-deb90c79-5555-44cf-b1e5-365bb4055f3f.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ2MzgxMDAsIm5iZiI6MTcwNDYzNzgwMCwicGF0aCI6Ii8xNTU4ODcyNjUvMjk0NzY0NTU1LWRlYjkwYzc5LTU1NTUtNDRjZi1iMWU1LTM2NWJiNDA1NWYzZi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDEwN1QxNDMwMDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yMjA4MjQ5MmEzZDU5MzNmNjAxNzQ3NzI1NjZhMDVjOGI3YmVmMmUyOTczNGRhYzU5YjAyYjU2MGRkYWJkNmRiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.YtmdNu7IbvQiBp1-u-783Rel2mMsHwdKAoiQaM_9Aks" id="wallpaper"/><div id="beneranblur"></div>
    </div>
    
    <div id='Content'>
